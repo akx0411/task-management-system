@@ -149,3 +149,103 @@
 {"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T06:01:22.637Z","type":"LOGIN"}
 {"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T06:01:22.941Z"}
 {"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-08T06:01:22.943Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:14:51.573Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T09:14:51.725Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-08T09:14:51.728Z"}
+{"data":{"task":{"assignedTo":"william.anderson@yahoo.com","createdAt":1754644538193,"description":"This is a task description. ","dueDate":"2025-08-10","edited":false,"priority":"High","status":"Pending","title":"Task 101"}},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:15:38.511Z","type":"SUBMIT_TASK"}
+{"data":{"taskId":4},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:16:28.203Z","type":"MARK_AS_COMPLETED"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:17:42.079Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:17:51.875Z","type":"LOGIN"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:17:59.632Z","type":"LOGIN"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:19:51.112Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T09:19:51.206Z"}
+{"email":"member@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-08T09:19:51.206Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:19:57.446Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:23:02.573Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T09:23:02.675Z"}
+{"email":"member@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-08T09:23:02.676Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:26:04.849Z","type":"LOGOUT"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:27:58.992Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T09:27:59.102Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-08T09:27:59.103Z"}
+{"data":{"task":{"assignedTo":"member@gmail.com","createdAt":1754645325239,"description":"This is a task description.","dueDate":"2025-08-10","edited":false,"priority":"High","status":"Pending","title":"Task 102"}},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:28:45.554Z","type":"SUBMIT_TASK"}
+{"data":{"taskId":61},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:29:37.747Z","type":"MARK_AS_COMPLETED"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:30:22.607Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:30:29.074Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T09:30:29.187Z"}
+{"email":"member@gmail.com","firstName":"Member","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-08T09:30:29.187Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T09:31:25.217Z","type":"LOGOUT"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T10:44:29.325Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T10:44:29.455Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-08T10:44:29.456Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T10:45:29.422Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T10:45:40.041Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-08T10:45:40.135Z"}
+{"email":"member@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-08T10:45:40.136Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:16:14.634Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:16:17.947Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:17:31.265Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:17:36.872Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:17:48.281Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:20:29.245Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:21:09.650Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:22:43.303Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:22:45.935Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:22:47.166Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:23:53.185Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T15:24:02.966Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:03:59.456Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:10:21.870Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:10:24.814Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:10:48.951Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:21:32.329Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:27:41.485Z","type":"LOGIN"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:37:52.263Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-08T16:48:28.203Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-09T13:57:54.532Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-09T16:45:55.279Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-09T16:46:24.880Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T05:41:20.915Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T05:41:21.051Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T05:41:21.053Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T05:45:35.406Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T05:45:48.006Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T05:45:48.103Z"}
+{"email":"member@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-10T05:45:48.103Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T05:46:49.787Z","type":"LOGOUT"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T05:49:30.714Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T05:49:30.805Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T05:49:30.805Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T14:53:54.163Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T14:58:20.998Z","type":"LOGIN"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T16:45:21.744Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T16:45:21.884Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T16:45:21.885Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T16:46:31.945Z","type":"LOGOUT"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T16:47:05.935Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T16:47:06.041Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T16:47:06.042Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T17:04:34.449Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T17:04:34.587Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T17:04:34.587Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-10T17:08:22.103Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-10T17:08:22.288Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-10T17:08:22.288Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T00:22:42.920Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-11T00:22:43.152Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-11T00:22:43.155Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:05:52.225Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-11T04:05:52.383Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-11T04:05:52.384Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:31:18.922Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-11T04:31:19.039Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-11T04:31:19.040Z"}
+{"data":{"email":"admin@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:55:42.301Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-11T04:55:42.437Z"}
+{"email":"admin@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamLead","service":"task-management-fsm","timestamp":"2025-08-11T04:55:42.438Z"}
+{"data":{"taskId":5},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:57:42.428Z","type":"MARK_AS_COMPLETED"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:58:27.603Z","type":"LOGOUT"}
+{"data":{"email":"member@gmail.com","password":"admin123"},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:58:37.525Z","type":"LOGIN"}
+{"dashboard":"idle","level":"info","message":"Login successful, FSM state:","service":"task-management-fsm","timestamp":"2025-08-11T04:58:37.615Z"}
+{"email":"member@gmail.com","firstName":"Admin","lastName":"User","level":"info","message":"User context:","role":"teamMember","service":"task-management-fsm","timestamp":"2025-08-11T04:58:37.615Z"}
+{"data":{},"level":"info","message":"[FSM] Event received:","service":"task-management-fsm","timestamp":"2025-08-11T04:59:35.148Z","type":"LOGOUT"}

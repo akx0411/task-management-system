@@ -251,6 +251,15 @@ async function generateUsers(count = 20) {
     profilePic: "/src/assets/user-icon.png",
   });
 
+   users.push({
+    email: "member@gmail.com",
+    password: await bcrypt.hash("admin123", 10),
+    firstName: "Admin",
+    lastName: "User",
+    role: "teamMember",
+    profilePic: "/src/assets/user-icon.png",
+  });
+
   const teamLeadCount = Math.ceil(count * 0.2); // 20% team leads
 
   for (let i = 0; i < count; i++) {

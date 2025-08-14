@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS users (
   firstName VARCHAR(100),
   lastName VARCHAR(100),
   role VARCHAR(50) NOT NULL,
-  profilePic LONGTEXT DEFAULT '/src/assets/user-icon.png'
+  profilePic LONGTEXT
 );
 
 CREATE TABLE IF NOT EXISTS tasks (
